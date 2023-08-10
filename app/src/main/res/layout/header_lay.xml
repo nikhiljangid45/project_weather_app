@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="235dp"
+    android:padding="14dp"
+    android:orientation="vertical"
+    android:background="#2611E2"
+    android:gravity="bottom">
+
+
+    <ImageView android:layout_width="90dp"
+        android:layout_height="64dp"
+        android:src="@drawable/fornavbar"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="20dp">
+    </ImageView>
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weather App"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:textStyle="bold">
+    </TextView>
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="what aere you doing"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        android:textStyle="bold">
+    </TextView>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectWeatherApp</string>
+    <string name="OpenDrawer">sdfsad\n\n\n\t\t\t\t</string>
+    <string name="CloseDrawer">dfgsdfg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

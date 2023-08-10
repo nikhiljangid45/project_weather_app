@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/opNote" android:title="Weather Detail" android:icon="@drawable/fornavbar"> </item>
+    <item android:id="@+id/opHome" android:title="Save Location" android:icon="@drawable/baseline_add_location_24"> </item>
+    <item android:id="@+id/opSitting" android:title="Map" android:icon="@drawable/baseline_place_24"> </item>
+</menu>
